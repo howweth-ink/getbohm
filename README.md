@@ -1,7 +1,9 @@
-# getbohm
-Collaborative project that uses a repository usually for programming language for a collaborative project for whomever actively wants to understand all that Bohm and Krishnamurti have said about thought, how it works and deceives all of us.. (or for a compiler that can understand English in the future) 
+# Understanding David Bohm 
 
 This is the active repository of links to videos of groups who discover thought via bohmian dialogue with David Bohm while he was still alive. Friso Seyferth engages others into mutual self-exploration through discovering that sometimes we don't know what we are actually thinking and assuming. Thought can deceive us and 'control' us. 
+
+
+
 
 # It makes us think it is our servant, while it actually controls us.  
 # --David Bohm
@@ -10,3 +12,4 @@ This is the active repository of links to videos of groups who discover thought 
 
 ## "If it's in you, I'll find it."
 ## -- David Brent - guidance and counceling    
+
