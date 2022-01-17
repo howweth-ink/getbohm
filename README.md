@@ -6,10 +6,10 @@ This is the active repository of links to videos of groups who discover thought 
 
 
 # It makes us think it is our servant, while it actually controls us.  
-# --David Bohm
+# - David Bohm
 
 ## If you don't understand what that practically means, how that feels to be true and what that insight can do for you, you should engage in dialogue with Friso Seyferth and the other Bohmian dialogue inquirers and guides to set yourself free from the burden of thought and make it work for you, instead of the other way around. 
 
 ## "If it's in you, I'll find it."
-## -- David Brent - guidance and counceling    
+## - David Brent  (Guidance and Counceling in Business)    
 
